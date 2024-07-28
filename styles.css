@@ -6,6 +6,9 @@ body {
     background-color: rgb(219, 212, 203);
     overflow: hidden;
 }
+#myCanvas {
+    height: 380px;
+}
 .controller {
     width: 200px;
     display: flex;
